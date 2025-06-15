@@ -2,6 +2,7 @@
 
 ⏱️ Interactive Stopwatch Web Application
 A fully functional stopwatch web application built with pure HTML, CSS, and JavaScript. Features precise time tracking with lap functionality and an intuitive user interface for accurate time measurement and recording.
+
 ✨ Features
 
 Precision Time Tracking - Accurate millisecond-level time measurement
